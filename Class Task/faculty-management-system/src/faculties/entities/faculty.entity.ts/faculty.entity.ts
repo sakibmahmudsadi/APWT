@@ -14,5 +14,5 @@ export class Faculty{
     expertise:string;
 
     @Column()
-    noOfPublication:string;
+    noOfPublication:number;
 }
